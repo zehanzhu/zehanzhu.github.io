@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Zehan Zhu’s Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,39 +9,36 @@ redirect_from:
 ---
 
 
-I am pursuing the Ph.D. degree with the College of Control Science and Engineering, Zhejiang University, Hangzhou, China, supervised by [Prof. Jinming Xu](https://person.zju.edu.cn/jimmyxu). Previously, I received the B.Eng. degree in automation from the China University of Petroleum (East China), Qingdao, China, in 2020. Currently, I am a visiting student with the A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include distributed and large-scale optimization, machine learning, and related areas such as security and privacy. 
+Welcome to my homepage! I am pursuing the Ph.D. degree with the College of Control Science and Engineering, [Zhejiang University](https://www.zju.edu.cn/), Hangzhou, China, supervised by [Prof. Jinming Xu](https://person.zju.edu.cn/jimmyxu). Previously, I received the B.Eng. degree in automation from the [China University of Petroleum (East China)](https://www.upc.edu.cn/), Qingdao, China, in 2020. Currently, I am a visiting student with the [A*STAR Centre for Frontier AI Research (CFAR), Singapore](https://www.a-star.edu.sg/cfar), supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include distributed and large-scale optimization, machine learning, and related areas such as security and privacy. 
 
 
 
 Education Background
 ======
-* Sep. 2020 - present, Ph.D. Student
+* Sep. 2020 - present: **Ph.D. Student**
 
-  [NeSC Group](http://nesc.zju.edu.cn/#/), College of Control Science and Engineering, Zhejiang University, Hangzhou, China
-
-  Advisor: [Prof. Jinming Xu](https://person.zju.edu.cn/jimmyxu)
+  [NeSC Group](http://nesc.zju.edu.cn/#/), [Zhejiang University](https://www.zju.edu.cn/). Advisor: [Prof. Jinming Xu](https://person.zju.edu.cn/jimmyxu)
 
 
-* Jun. 2024 - present, Visiting Ph.D. Student
+* Jun. 2024 - present, **Visiting Ph.D. Student**
 
-  A*STAR Centre for Frontier AI Research (CFAR), Singapore.
-
-  Advisor: [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/)
+  [A*STAR Centre for Frontier AI Research (CFAR), Singapore](https://www.a-star.edu.sg/cfar). Advisor: [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/)
 
 
-* Sep. 2016 - Jun. 2020, B.Eng.
+* Sep. 2016 - Jun. 2020, **B.S. Student**
 
-  College of Control Science and Engineering, China University of Petroleum (East China), Qingdao, China
+  [China University of Petroleum (East China)](https://www.upc.edu.cn/)
 
 
 
-News!!!
+Recent News
 ======
-* Jun. 2024: Our work “R-FAST: Robust Fully-Asynchronous Stochastic Gradient Tracking over General Topology” has been accepted by **IEEE TSIPN (T-2)** !
-* May. 2024: Our work “PerfTop: Towards Performance Prediction of Distributed Learning over General Topology” has been accepted by **JPDC (CCF-B)** !
-* Apr. 2024: Our work “PrivSGP-VR: Differentially Private Variance-Reduced Stochastic Gradient Push with Tight Utility Bounds” has been accepted by **IJCAI (CCF-A, acceptance rate: 14%)** !
-* Dec. 2023: Our work “Asynchronous Byzantine-Robust Stochastic Aggregation with Variance Reduction for Distributed Learning” has been accepted by **IEEE CDC (CAA-A)** !
-* May. 2022: Our work “Tackling Data Heterogeneity: A New Unified Framework for Decentralized SGD with Sample-induced Topology” has been accepted by **ICML (CCF-A, acceptance rate: 22%)** !
+* Jun. 2024: Our paper, [R-FAST: Robust Fully-Asynchronous Stochastic Gradient Tracking over General Topology](https://ieeexplore.ieee.org/abstract/document/10660468) has been accepted for publication in **IEEE Transactions on Signal and Information Processing over Networks** as Regular Paper !
+* May. 2024: Our paper, [PerfTop: Towards Performance Prediction of Distributed Learning over General Topology](https://www.sciencedirect.com/science/article/abs/pii/S0743731524000868) has been accepted for publication in **Journal of Parallel and Distributed Computing** as Regular Paper !
+* Apr. 2024: Our paper, [PrivSGP-VR: Differentially Private Variance-Reduced Stochastic Gradient Push with Tight Utility Bounds](https://www.ijcai.org/proceedings/2024/635) has been accepted by the 33rd **International Joint Conference on Artificial Intelligence (IJCAI 2024)** ! (**CCF-A, acceptance rate: 14%**)
+* Jul. 2023: Our paper, [Robust Fully-Asynchronous Methods for Distributed Training over General Architecture](https://arxiv.org/abs/2307.11617) is online!
+* Jul. 2023: Our paper, [Asynchronous Byzantine-Robust Stochastic Aggregation with Variance Reduction for Distributed Learning](https://ieeexplore.ieee.org/abstract/document/10383346) has been accepted by the 62nd **IEEE Conference on Decision and Control (CDC)** !
+* May. 2022: Our paper, [Tackling Data Heterogeneity: A New Unified Framework for Decentralized SGD with Sample-induced Topology](https://proceedings.mlr.press/v162/huang22i.html) has been accepted by the 39th **International Conference on Machine Learning (ICML 2022)** ! (**CCF-A, acceptance rate: 22%**)
 
 
 
@@ -51,16 +48,51 @@ Awards
 ======
 * Outstanding PhD Student, Zhejiang University, China, 2023
 * Outstanding Graduate of Shandong Province, China, 2020
+* The Inaugural Dean's Award of the School of Control Science and Engineering, China University of Petroleum (East China)
 * National Scholarship for undergraduate student, China, 2019
 * First Prize in the National Undergraduate Electronic Design Competition, China, 2019
 * First Prize in the National Undergraduate Academic Competition, China, 2017
 
 
 
-Related links
+Scenery in Life
 ------
-1. [Zhejiang University](https://www.zju.edu.cn/).
+* ------------------------------------  **Jeju, South Korea**  ------------------------------------
+<p align="left">
+<img src="/images/jelu_1.png" alt="drawing" width="340"/>
+<img src="/images/jelu_3.png" alt="drawing" width="202"/>
+<img src="/images/jelu_2.png" alt="drawing" width="301"/>
+</p>
+
+* ------------------------------------  **Marina Bay Sands, Singapore**  ------------------------------------
+<p align="left">
+<img src="/images/SG_1.png" alt="drawing" width="340"/>
+<img src="/images/SG_2.png" alt="drawing" width="248"/>
+<img src="/images/SG_3.png" alt="drawing" width="341"/>
+</p>
+
 
 <p align="left">
-<img src="/images/Zhejiang_University2.png" alt="drawing" width="305"/>
+<img src="/images/SG_4.png" alt="drawing" width="340"/>
+<img src="/images/SG_5.png" alt="drawing" width="341"/>
+<img src="/images/SG_6.png" alt="drawing" width="266"/>
+</p>
+
+* ------------------------------------  **Hangzhou, China**  ------------------------------------
+<p align="left">
+<img src="/images/HZ_4.png" alt="drawing" width="348"/>
+<img src="/images/HZ_6.png" alt="drawing" width="252"/>
+<img src="/images/HZ_5.png" alt="drawing" width="340"/>
+</p>
+
+<p align="left">
+<img src="/images/HZ_7.png" alt="drawing" width="328"/>
+<img src="/images/HZ_8.png" alt="drawing" width="328"/>
+<img src="/images/HZ_9.png" alt="drawing" width="328"/>
+</p>
+
+<p align="left">
+<img src="/images/HZ_1.png" alt="drawing" width="326"/>
+<img src="/images/HZ_2.png" alt="drawing" width="328"/>
+<img src="/images/HZ_3.png" alt="drawing" width="340"/>
 </p>

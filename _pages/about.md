@@ -57,14 +57,14 @@ Awards
 
 Scenery in Life
 ------
-* ------------------------------------  **Jeju, South Korea**  ------------------------------------
+* ----------  **Jeju, South Korea**  ---------- 
 <p align="left">
 <img src="/images/jelu_1.png" alt="drawing" width="204"/>
 <img src="/images/jelu_3.png" alt="drawing" width="121"/>
 <img src="/images/jelu_2.png" alt="drawing" width="180"/>
 </p>
 
-* ------------------------------------  **Marina Bay Sands, Singapore**  ------------------------------------
+* ----------  **Marina Bay Sands, Singapore**  ---------- 
 <p align="left">
 <img src="/images/SG_1.png" alt="drawing" width="184"/>
 <img src="/images/SG_2.png" alt="drawing" width="134"/>
@@ -78,7 +78,7 @@ Scenery in Life
 <img src="/images/SG_6.png" alt="drawing" width="140"/>
 </p>
 
-* ------------------------------------  **Hangzhou, China**  ------------------------------------
+* ----------  **Hangzhou, China**  ---------- 
 <p align="left">
 <img src="/images/HZ_4.png" alt="drawing" width="185"/>
 <img src="/images/HZ_6.png" alt="drawing" width="134"/>

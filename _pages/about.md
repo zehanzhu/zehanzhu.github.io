@@ -51,7 +51,7 @@ Awards
 * The Inaugural Dean's Award of the School of Control Science and Engineering, China University of Petroleum (East China)
 * National Scholarship for undergraduate student, China, 2019
 * First Prize in the National Undergraduate Electronic Design Competition, China, 2019
-* First Prize in the National Undergraduate Academic Competition, China, 2017
+* First Prize in the National Undergraduate Mathematics Competition, China, 2017
 
 
 

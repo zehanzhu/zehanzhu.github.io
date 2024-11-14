@@ -59,40 +59,40 @@ Scenery in Life
 ------
 * ------------------------------------  **Jeju, South Korea**  ------------------------------------
 <p align="left">
-<img src="/images/jelu_1.png" alt="drawing" width="340"/>
-<img src="/images/jelu_3.png" alt="drawing" width="202"/>
-<img src="/images/jelu_2.png" alt="drawing" width="301"/>
+<img src="/images/jelu_1.png" alt="drawing" width="204"/>
+<img src="/images/jelu_3.png" alt="drawing" width="121"/>
+<img src="/images/jelu_2.png" alt="drawing" width="180"/>
 </p>
 
 * ------------------------------------  **Marina Bay Sands, Singapore**  ------------------------------------
 <p align="left">
-<img src="/images/SG_1.png" alt="drawing" width="340"/>
-<img src="/images/SG_2.png" alt="drawing" width="248"/>
-<img src="/images/SG_3.png" alt="drawing" width="341"/>
+<img src="/images/SG_1.png" alt="drawing" width="184"/>
+<img src="/images/SG_2.png" alt="drawing" width="134"/>
+<img src="/images/SG_3.png" alt="drawing" width="185"/>
 </p>
 
 
 <p align="left">
-<img src="/images/SG_4.png" alt="drawing" width="340"/>
-<img src="/images/SG_5.png" alt="drawing" width="341"/>
-<img src="/images/SG_6.png" alt="drawing" width="266"/>
+<img src="/images/SG_4.png" alt="drawing" width="180"/>
+<img src="/images/SG_5.png" alt="drawing" width="180"/>
+<img src="/images/SG_6.png" alt="drawing" width="140"/>
 </p>
 
 * ------------------------------------  **Hangzhou, China**  ------------------------------------
 <p align="left">
-<img src="/images/HZ_4.png" alt="drawing" width="348"/>
-<img src="/images/HZ_6.png" alt="drawing" width="252"/>
-<img src="/images/HZ_5.png" alt="drawing" width="340"/>
+<img src="/images/HZ_4.png" alt="drawing" width="185"/>
+<img src="/images/HZ_6.png" alt="drawing" width="134"/>
+<img src="/images/HZ_5.png" alt="drawing" width="180"/>
 </p>
 
 <p align="left">
-<img src="/images/HZ_7.png" alt="drawing" width="328"/>
-<img src="/images/HZ_8.png" alt="drawing" width="328"/>
-<img src="/images/HZ_9.png" alt="drawing" width="328"/>
+<img src="/images/HZ_7.png" alt="drawing" width="167"/>
+<img src="/images/HZ_8.png" alt="drawing" width="167"/>
+<img src="/images/HZ_9.png" alt="drawing" width="167"/>
 </p>
 
 <p align="left">
-<img src="/images/HZ_1.png" alt="drawing" width="326"/>
-<img src="/images/HZ_2.png" alt="drawing" width="328"/>
-<img src="/images/HZ_3.png" alt="drawing" width="340"/>
+<img src="/images/HZ_1.png" alt="drawing" width="164"/>
+<img src="/images/HZ_2.png" alt="drawing" width="165"/>
+<img src="/images/HZ_3.png" alt="drawing" width="172"/>
 </p>

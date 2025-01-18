@@ -10,18 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-## Submitted Papers
-
-[S1] **Zehan Zhu**, Yan Huang, Xin Wang, and Jinming Xu, “Differentially Private Decentralized Learning with Dynamic Decaying Clipping Bounds and Unevenly Allocated Privacy Budgets”, Submited to **IEEE Transactions on Information Forensics and Security**, 2024.
-
-[S2] **Zehan Zhu**, Yan Huang, Xin Wang, and Jinming Xu, “DP-QSGP: Communication-Efficient and Differentially-Private Stochastic Gradient Push With Tight Utility Bound”, Submited to **IEEE Transactions on Information Forensics and Security**, 2024.
-
-[S3] Zhe Tian, Junping Wan, **Zehan Zhu**, Zoe Lin Jiang, and Jinming Xu, “CryptoSFL: An Efficient and Scalable Crypto-Aided Privacy-Preserving Framework for Split Federated Learning”, Submited to **IEEE Transactions on Information Forensics and Security**, 2024.
-
-
-
-
-
 ## Published Papers
 
 [P1] **Zehan Zhu**, Yan Huang, Xin Wang, and Jinming Xu, [PrivSGP-VR: Differentially Private Variance-Reduced Stochastic Gradient Push with Tight Utility Bounds](https://www.ijcai.org/proceedings/2024/635), **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI)**, Jeju, South Korea, Aug. 2024.

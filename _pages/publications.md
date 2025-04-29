@@ -11,7 +11,7 @@ redirect_from:
 
 
 ## Published/Accepted Papers
-[1] **Zehan Zhu**, Yan Huang, Xin Wang, Shouling Ji and Jinming Xu, [Dyn-D<sup>2</sup>P: Dynamic Differentially Private Decentralized Learning with Provable Utility Guarantee](), **Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI, <span style="color:#8B0000">CCF-A</span>)**, Montreal, Canada, Aug. 2025.
+[1] **Zehan Zhu**, Yan Huang, Xin Wang, Shouling Ji, and Jinming Xu, [Dyn-D<sup>2</sup>P: Dynamic Differentially Private Decentralized Learning with Provable Utility Guarantee](), **Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI, <span style="color:#8B0000">CCF-A</span>)**, Montreal, Canada, Aug. 2025.
 
 [2] **Zehan Zhu**, Yan Huang, Xin Wang, and Jinming Xu, [PrivSGP-VR: Differentially Private Variance-Reduced Stochastic Gradient Push with Tight Utility Bounds](https://www.ijcai.org/proceedings/2024/635), **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI, <span style="color:#8B0000">CCF-A</span>)**, Jeju, South Korea, Aug. 2024.
 

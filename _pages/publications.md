@@ -19,7 +19,7 @@ redirect_from:
 
 [4] **Zehan Zhu**, Ye Tian, Yan Huang, Jinming Xu, and Shibo He, [R-FAST: Robust Fully-Asynchronous Stochastic Gradient Tracking over General Topology](https://ieeexplore.ieee.org/abstract/document/10660468), **IEEE Transactions on Signal and Information Processing over Networks (IEEE TSIPN)**, 2024.
 
-[5] **Zehan Zhu**, Yan Huang, Chengcheng Zhao, and Jinming Xu, [Asynchronous Byzantine-Robust Stochastic Aggregation with Variance Reduction for Distributed Learning](https://ieeexplore.ieee.org/abstract/document/10383346), **Proceedings of the 62nd IEEE Conference on Decision and Control (IEEE CDC)**, Marina Bay Sands, Singapore, Dec. 2024.
+[5] **Zehan Zhu**, Yan Huang, Chengcheng Zhao, and Jinming Xu, [Asynchronous Byzantine-Robust Stochastic Aggregation with Variance Reduction for Distributed Learning](https://ieeexplore.ieee.org/abstract/document/10383346), **Proceedings of the 62nd IEEE Conference on Decision and Control (IEEE CDC)**, Marina Bay Sands, Singapore, Dec. 2023.
 
 [6] Changzhi Yan, **Zehan Zhu**, Youcheng Niu, Cong Wang, Cheng Zhuo, and Jinming Xu, [PerfTop: Towards Performance Prediction of Distributed Learning over General Topology](https://www.sciencedirect.com/science/article/abs/pii/S0743731524000868), **Journal of Parallel and Distributed Computing (JPDC, <span style="color:#00008B">CCF-B</span>)**, 2024.
 

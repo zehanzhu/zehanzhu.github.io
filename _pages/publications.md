@@ -11,16 +11,17 @@ redirect_from:
 
 
 ## Published Papers
+[P1] **Zehan Zhu**, Yan Huang, Xin Wang, Shouling Ji and Jinming Xu, [Dyn-D<sup>2</sup>P: Dynamic Differentially Private Decentralized Learning with Provable Utility Guarantee](), **Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI)**, Montreal, Canada, Aug. 2025.
 
-[P1] **Zehan Zhu**, Yan Huang, Xin Wang, and Jinming Xu, [PrivSGP-VR: Differentially Private Variance-Reduced Stochastic Gradient Push with Tight Utility Bounds](https://www.ijcai.org/proceedings/2024/635), **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI)**, Jeju, South Korea, Aug. 2024.
+[P2] **Zehan Zhu**, Yan Huang, Xin Wang, and Jinming Xu, [PrivSGP-VR: Differentially Private Variance-Reduced Stochastic Gradient Push with Tight Utility Bounds](https://www.ijcai.org/proceedings/2024/635), **Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI)**, Jeju, South Korea, Aug. 2024.
 
-[P2] **Zehan Zhu**, Ye Tian, Yan Huang, Jinming Xu, and Shibo He, [R-FAST: Robust Fully-Asynchronous Stochastic Gradient Tracking over General Topology](https://ieeexplore.ieee.org/abstract/document/10660468), **IEEE Transactions on Signal and Information Processing over Networks**, 2024.
+[P3] **Zehan Zhu**, Ye Tian, Yan Huang, Jinming Xu, and Shibo He, [R-FAST: Robust Fully-Asynchronous Stochastic Gradient Tracking over General Topology](https://ieeexplore.ieee.org/abstract/document/10660468), **IEEE Transactions on Signal and Information Processing over Networks**, 2024.
 
-[P3] **Zehan Zhu**, Yan Huang, Chengcheng Zhao, and Jinming Xu, [Asynchronous Byzantine-Robust Stochastic Aggregation with Variance Reduction for Distributed Learning](https://ieeexplore.ieee.org/abstract/document/10383346), **Proceedings of the 62nd IEEE Conference on Decision and Control (CDC)**, Marina Bay Sands, Singapore, Dec. 2024.
+[P4] **Zehan Zhu**, Yan Huang, Chengcheng Zhao, and Jinming Xu, [Asynchronous Byzantine-Robust Stochastic Aggregation with Variance Reduction for Distributed Learning](https://ieeexplore.ieee.org/abstract/document/10383346), **Proceedings of the 62nd IEEE Conference on Decision and Control (CDC)**, Marina Bay Sands, Singapore, Dec. 2024.
 
-[P4] Changzhi Yan, **Zehan Zhu**, Youcheng Niu, Cong Wang, Cheng Zhuo, and Jinming Xu, [PerfTop: Towards Performance Prediction of Distributed Learning over General Topology](https://www.sciencedirect.com/science/article/abs/pii/S0743731524000868), **Journal of Parallel and Distributed Computing**, 2024.
+[P5] Changzhi Yan, **Zehan Zhu**, Youcheng Niu, Cong Wang, Cheng Zhuo, and Jinming Xu, [PerfTop: Towards Performance Prediction of Distributed Learning over General Topology](https://www.sciencedirect.com/science/article/abs/pii/S0743731524000868), **Journal of Parallel and Distributed Computing**, 2024.
 
-[P5] Yan Huang, Ying Sun, **Zehan Zhu**, Changzhi Yan, and Jinming Xu, [Tackling Data Heterogeneity: A New Unified Framework for Decentralized SGD with Sample-induced Topology](https://proceedings.mlr.press/v162/huang22i.html), **Proceedings of the 39th International Conference on Machine Learning (ICML)**, Baltimore, Maryland, USA, Jul. 2022.
+[P6] Yan Huang, Ying Sun, **Zehan Zhu**, Changzhi Yan, and Jinming Xu, [Tackling Data Heterogeneity: A New Unified Framework for Decentralized SGD with Sample-induced Topology](https://proceedings.mlr.press/v162/huang22i.html), **Proceedings of the 39th International Conference on Machine Learning (ICML)**, Baltimore, Maryland, USA, Jul. 2022.
 
 
 

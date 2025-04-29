@@ -32,6 +32,7 @@ Education Background
 
 Recent News
 ======
+* Apr. 2025: Our paper, [Dyn-D<sup>2</sup>P: Dynamic Differentially Private Decentralized Learning with Provable Utility Guarantee](), has been accepted by the 34th **International Joint Conference on Artificial Intelligence (IJCAI 2025)** ! (**CCF-A, acceptance rate: 19.3%**)
 * Jun. 2024: Our paper, [R-FAST: Robust Fully-Asynchronous Stochastic Gradient Tracking over General Topology](https://ieeexplore.ieee.org/abstract/document/10660468), has been accepted for publication in **IEEE Transactions on Signal and Information Processing over Networks** as Regular Paper !
 * May. 2024: Our paper, [PerfTop: Towards Performance Prediction of Distributed Learning over General Topology](https://www.sciencedirect.com/science/article/abs/pii/S0743731524000868), has been accepted for publication in **Journal of Parallel and Distributed Computing** as Regular Paper !
 * Apr. 2024: Our paper, [PrivSGP-VR: Differentially Private Variance-Reduced Stochastic Gradient Push with Tight Utility Bounds](https://www.ijcai.org/proceedings/2024/635), has been accepted by the 33rd **International Joint Conference on Artificial Intelligence (IJCAI 2024)** ! (**CCF-A, acceptance rate: 14%**)

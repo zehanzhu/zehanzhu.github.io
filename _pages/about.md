@@ -46,52 +46,9 @@ Recent News
 
 Awards
 ======
-* Outstanding PhD Student, Zhejiang University, China, 2023
+* Outstanding PhD Student, Zhejiang University, China, 2023, 2024
 * Outstanding Graduate of Shandong Province, China, 2020
 * National Scholarship for undergraduate student, China, 2019
-* First Prize in the National Undergraduate Electronic Design Competition, China, 2019
 * First Prize in the National Undergraduate Mathematics Competition, China, 2017
 
 
-
-Scenery in Life
-------
-* ----------  **Jeju, South Korea**  ---------- 
-<p align="left">
-<img src="/images/jelu_1.png" alt="drawing" width="204"/>
-<img src="/images/jelu_3.png" alt="drawing" width="121"/>
-<img src="/images/jelu_2.png" alt="drawing" width="180"/>
-</p>
-
-* ----------  **Marina Bay Sands, Singapore**  ---------- 
-<p align="left">
-<img src="/images/SG_1.png" alt="drawing" width="184"/>
-<img src="/images/SG_2.png" alt="drawing" width="134"/>
-<img src="/images/SG_3.png" alt="drawing" width="185"/>
-</p>
-
-
-<p align="left">
-<img src="/images/SG_4.png" alt="drawing" width="180"/>
-<img src="/images/SG_5.png" alt="drawing" width="180"/>
-<img src="/images/SG_6.png" alt="drawing" width="140"/>
-</p>
-
-* ----------  **Hangzhou, China**  ---------- 
-<p align="left">
-<img src="/images/HZ_4.png" alt="drawing" width="185"/>
-<img src="/images/HZ_6.png" alt="drawing" width="134"/>
-<img src="/images/HZ_5.png" alt="drawing" width="180"/>
-</p>
-
-<p align="left">
-<img src="/images/HZ_7.png" alt="drawing" width="167"/>
-<img src="/images/HZ_8.png" alt="drawing" width="167"/>
-<img src="/images/HZ_9.png" alt="drawing" width="167"/>
-</p>
-
-<p align="left">
-<img src="/images/HZ_1.png" alt="drawing" width="164"/>
-<img src="/images/HZ_2.png" alt="drawing" width="165"/>
-<img src="/images/HZ_3.png" alt="drawing" width="172"/>
-</p>

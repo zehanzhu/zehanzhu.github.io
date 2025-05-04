@@ -14,11 +14,14 @@ Hi there! I am pursuing the Ph.D. degree with the College of Control Science and
 
 Education Background
 ======
-* Sep. 2020 - present, **Ph.D. Student:**  Zhejiang University, Advisor: [Prof. Jinming Xu](https://person.zju.edu.cn/jimmyxu)
+* Sep. 2020 - present, **Ph.D. Student** <br>
+**Zhejiang University**, Advisor: [Prof. Jinming Xu](https://person.zju.edu.cn/jimmyxu)
 
-* Jun. 2024 - Jan. 2025, **Visiting Ph.D. Student:**  A*STAR Centre for Frontier AI Research (CFAR), Singapore, Advisor: [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/)
+* Jun. 2024 - Jan. 2025, **Visiting Ph.D. Student** <br>
+**A*STAR Centre for Frontier AI Research (CFAR), Singapore**, Advisor: [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/)
 
-* Sep. 2016 - Jun. 2020, **B.S. Student****  China University of Petroleum (East China)
+* Sep. 2016 - Jun. 2020, **B.S. Student** <br>
+**China University of Petroleum (East China)**
 
 
 

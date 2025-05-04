@@ -9,24 +9,16 @@ redirect_from:
 ---
 
 
-Hi there! I am pursuing the Ph.D. degree with the College of Control Science and Engineering, [Zhejiang University](https://www.zju.edu.cn/), Hangzhou, China, supervised by [Prof. Jinming Xu](https://person.zju.edu.cn/jimmyxu). Previously, I received the B.Eng. degree in automation from the [China University of Petroleum (East China)](https://www.upc.edu.cn/), Qingdao, China, in 2020. I was a visiting Ph.D. student with the [A*STAR Centre for Frontier AI Research (CFAR), Singapore](https://www.a-star.edu.sg/cfar), supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include distributed machine learning, large-scale optimization, security and privacy. **After graduation this year, I will join Huawei as a researcher and work on distributed training of large language models (LLM), with Distributed Parallel Computing Lab, Central Software Institute, 2012 Labs.**
+Hi there! I am pursuing the Ph.D. degree with the College of Control Science and Engineering, **Zhejiang University**, Hangzhou, China, supervised by [Prof. Jinming Xu](https://jinmingxu.github.io/). Previously, I received the B.Eng. degree in automation from the **China University of Petroleum (East China)**, Qingdao, China, in 2020. I was a visiting Ph.D. student with the **A*STAR Centre for Frontier AI Research (CFAR), Singapore**, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include distributed machine learning, large-scale optimization, security and privacy. **After graduation this year, I will join Huawei as a researcher and work on distributed training of large language models (LLM), with Distributed Parallel Computing Lab, Central Software Institute, 2012 Labs.**
 
 
 Education Background
 ======
-* Sep. 2020 - present: **Ph.D. Student**
+* Sep. 2020 - present, **Ph.D. Student:**  Zhejiang University, Advisor: [Prof. Jinming Xu](https://person.zju.edu.cn/jimmyxu)
 
-  [NeSC Group](http://nesc.zju.edu.cn/#/), [Zhejiang University](https://www.zju.edu.cn/). Advisor: [Prof. Jinming Xu](https://person.zju.edu.cn/jimmyxu)
+* Jun. 2024 - Jan. 2025, **Visiting Ph.D. Student:**  A*STAR Centre for Frontier AI Research (CFAR), Singapore, Advisor: [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/)
 
-
-* Jun. 2024 - Jan. 2025, **Visiting Ph.D. Student**
-
-  [A*STAR Centre for Frontier AI Research (CFAR), Singapore](https://www.a-star.edu.sg/cfar). Advisor: [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/)
-
-
-* Sep. 2016 - Jun. 2020, **B.S. Student**
-
-  [China University of Petroleum (East China)](https://www.upc.edu.cn/)
+* Sep. 2016 - Jun. 2020, **B.S. Student****  China University of Petroleum (East China)
 
 
 

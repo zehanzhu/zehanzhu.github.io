@@ -23,15 +23,15 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp; Yan Huang, Ying Sun, **Zehan Zhu**, Changzhi Yan, and Jinming Xu. <br>
 &nbsp;&nbsp;&nbsp;&nbsp; The 39th International Conference on Machine Learning. **(ICML'22, <span style="color:#8B0000">CCF-A</span>)**
 
-[3] **R-FAST: Robust Fully-Asynchronous Stochastic Gradient Tracking over General Topology**. [[Paper](https://ieeexplore.ieee.org/abstract/document/10660468)] <br>
+[4] **R-FAST: Robust Fully-Asynchronous Stochastic Gradient Tracking over General Topology**. [[Paper](https://ieeexplore.ieee.org/abstract/document/10660468)] <br>
 &nbsp;&nbsp;&nbsp;&nbsp; **Zehan Zhu**, Ye Tian, Yan Huang, Jinming Xu, and Shibo He. <br>
 &nbsp;&nbsp;&nbsp;&nbsp; IEEE Transactions on Signal and Information Processing over Networks. **(TSIPN'24)**
 
-[3] **Asynchronous Byzantine-Robust Stochastic Aggregation with Variance Reduction for Distributed Learning**. [[Paper](https://ieeexplore.ieee.org/abstract/document/10383346)] <br>
+[5] **Asynchronous Byzantine-Robust Stochastic Aggregation with Variance Reduction for Distributed Learning**. [[Paper](https://ieeexplore.ieee.org/abstract/document/10383346)] <br>
 &nbsp;&nbsp;&nbsp;&nbsp; **Zehan Zhu**, Yan Huang, Chengcheng Zhao, and Jinming Xu. <br>
 &nbsp;&nbsp;&nbsp;&nbsp; The 62nd IEEE Conference on Decision and Control. **(CDC'23)**
 
-[3] **PerfTop: Towards Performance Prediction of Distributed Learning over General Topology**. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0743731524000868)] <br>
+[6] **PerfTop: Towards Performance Prediction of Distributed Learning over General Topology**. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0743731524000868)] <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Changzhi Yan, **Zehan Zhu**, Youcheng Niu, Cong Wang, Cheng Zhuo, and Jinming Xu. <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Journal of Parallel and Distributed Computing. **(JPDC, <span style="color:blue; font-weight:bold">CCF-B</span>)**
 

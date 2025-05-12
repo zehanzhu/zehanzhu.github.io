@@ -11,29 +11,23 @@ redirect_from:
 
 
 ## Published/Accepted Papers
-[**<span style="color:#8B0000">IJCAI'25</span>**] **Dyn-D<sup>2</sup>P: Dynamic Differentially Private Decentralized Learning with Provable Utility Guarantee**. [[Paper]()] <br>
-&nbsp;&nbsp;&nbsp;&nbsp; **Zehan Zhu**, Yan Huang, Xin Wang, Shouling Ji, and Jinming Xu. <br>
-&nbsp;&nbsp;&nbsp;&nbsp; The 34th International Joint Conference on Artificial Intelligence. **(CCF-A)**
+[**<span style="color:#8B0000">IJCAI'25</span>**] **Zehan Zhu**, Yan Huang, Xin Wang, Shouling Ji, and Jinming Xu. **Dyn-D<sup>2</sup>P: Dynamic Differentially Private Decentralized Learning with Provable Utility Guarantee**. <br>
+The 34th International Joint Conference on Artificial Intelligence. **(CCF-A, [Paper]())**
 
-[**<span style="color:#8B0000">IJCAI'24</span>**] **PrivSGP-VR: Differentially Private Variance-Reduced Stochastic Gradient Push with Tight Utility Bounds**. [[Paper](https://www.ijcai.org/proceedings/2024/635)] <br>
-&nbsp;&nbsp;&nbsp;&nbsp; **Zehan Zhu**, Yan Huang, Xin Wang, and Jinming Xu. <br>
-&nbsp;&nbsp;&nbsp;&nbsp; The 33rd International Joint Conference on Artificial Intelligence. **(CCF-A)**
+[**<span style="color:#8B0000">IJCAI'24</span>**] **Zehan Zhu**, Yan Huang, Xin Wang, and Jinming Xu. **PrivSGP-VR: Differentially Private Variance-Reduced Stochastic Gradient Push with Tight Utility Bounds**. <br>
+The 33rd International Joint Conference on Artificial Intelligence. **(CCF-A, [Paper](https://www.ijcai.org/proceedings/2024/635))**
 
-[**<span style="color:#8B0000">ICML'22</span>**] **Tackling Data Heterogeneity: A New Unified Framework for Decentralized SGD with Sample-induced Topology**. [[Paper](https://proceedings.mlr.press/v162/huang22i.html)] <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Yan Huang, Ying Sun, **Zehan Zhu**, Changzhi Yan, and Jinming Xu. <br>
-&nbsp;&nbsp;&nbsp;&nbsp; The 39th International Conference on Machine Learning. **(CCF-A)**
+[**<span style="color:#8B0000">ICML'22</span>**] Yan Huang, Ying Sun, **Zehan Zhu**, Changzhi Yan, and Jinming Xu. **Tackling Data Heterogeneity: A New Unified Framework for Decentralized SGD with Sample-induced Topology**. <br>
+The 39th International Conference on Machine Learning. **(CCF-A, [Paper](https://proceedings.mlr.press/v162/huang22i.html))**
 
-[**<span style="color:#8B0000">TSIPN'24</span>**] **R-FAST: Robust Fully-Asynchronous Stochastic Gradient Tracking over General Topology**. [[Paper](https://ieeexplore.ieee.org/abstract/document/10660468)] <br>
-&nbsp;&nbsp;&nbsp;&nbsp; **Zehan Zhu**, Ye Tian, Yan Huang, Jinming Xu, and Shibo He. <br>
-&nbsp;&nbsp;&nbsp;&nbsp; IEEE Transactions on Signal and Information Processing over Networks. 
+[**<span style="color:#8B0000">TSIPN'24</span>**] **Zehan Zhu**, Ye Tian, Yan Huang, Jinming Xu, and Shibo He. **R-FAST: Robust Fully-Asynchronous Stochastic Gradient Tracking over General Topology**. <br>
+IEEE Transactions on Signal and Information Processing over Networks. **(JCR-Q2, , [Paper](https://ieeexplore.ieee.org/abstract/document/10660468))**
 
-[**<span style="color:#8B0000">CDC'23</span>**] **Asynchronous Byzantine-Robust Stochastic Aggregation with Variance Reduction for Distributed Learning**. [[Paper](https://ieeexplore.ieee.org/abstract/document/10383346)] <br>
-&nbsp;&nbsp;&nbsp;&nbsp; **Zehan Zhu**, Yan Huang, Chengcheng Zhao, and Jinming Xu. <br>
-&nbsp;&nbsp;&nbsp;&nbsp; The 62nd IEEE Conference on Decision and Control. 
+[**<span style="color:#8B0000">CDC'23</span>**] **Zehan Zhu**, Yan Huang, Chengcheng Zhao, and Jinming Xu. **Asynchronous Byzantine-Robust Stochastic Aggregation with Variance Reduction for Distributed Learning**. <br>
+The 62nd IEEE Conference on Decision and Control. **(CAA-A, [Paper](https://ieeexplore.ieee.org/abstract/document/10383346))**
 
-[**<span style="color:#8B0000">JPDC'24</span>**] **PerfTop: Towards Performance Prediction of Distributed Learning over General Topology**. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0743731524000868)] <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Changzhi Yan, **Zehan Zhu**, Youcheng Niu, Cong Wang, Cheng Zhuo, and Jinming Xu. <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Journal of Parallel and Distributed Computing. **(CCF-B)**
+[**<span style="color:#8B0000">JPDC'24</span>**] Changzhi Yan, **Zehan Zhu**, Youcheng Niu, Cong Wang, Cheng Zhuo, and Jinming Xu. **PerfTop: Towards Performance Prediction of Distributed Learning over General Topology**. <br>
+Journal of Parallel and Distributed Computing. **(CCF-B,  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0743731524000868))**
 
 
 ## Patents

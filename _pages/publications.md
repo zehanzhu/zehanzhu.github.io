@@ -20,14 +20,16 @@ The 33rd International Joint Conference on Artificial Intelligence. **(CCF-A, [P
 [**<span style="color:#8B0000">ICML'22</span>**] Yan Huang, Ying Sun, **Zehan Zhu**, Changzhi Yan, and Jinming Xu. **Tackling Data Heterogeneity: A New Unified Framework for Decentralized SGD with Sample-induced Topology**. <br>
 The 39th International Conference on Machine Learning. **(CCF-A, [Paper](https://proceedings.mlr.press/v162/huang22i.html))**
 
-[**<span style="color:#8B0000">TSIPN'24</span>**] **Zehan Zhu**, Ye Tian, Yan Huang, Jinming Xu, and Shibo He. **R-FAST: Robust Fully-Asynchronous Stochastic Gradient Tracking over General Topology**. <br>
-IEEE Transactions on Signal and Information Processing over Networks. **(JCR-Q2, , [Paper](https://ieeexplore.ieee.org/abstract/document/10660468))**
-
-[**<span style="color:#8B0000">CDC'23</span>**] **Zehan Zhu**, Yan Huang, Chengcheng Zhao, and Jinming Xu. **Asynchronous Byzantine-Robust Stochastic Aggregation with Variance Reduction for Distributed Learning**. <br>
-The 62nd IEEE Conference on Decision and Control. **(CAA-A, [Paper](https://ieeexplore.ieee.org/abstract/document/10383346))**
-
 [**<span style="color:#8B0000">JPDC'24</span>**] Changzhi Yan, **Zehan Zhu**, Youcheng Niu, Cong Wang, Cheng Zhuo, and Jinming Xu. **PerfTop: Towards Performance Prediction of Distributed Learning over General Topology**. <br>
 Journal of Parallel and Distributed Computing. **(CCF-B,  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0743731524000868))**
+
+[**<span style="color:#8B0000">TSIPN'24</span>**] **Zehan Zhu**, Ye Tian, Yan Huang, Jinming Xu, and Shibo He. **R-FAST: Robust Fully-Asynchronous Stochastic Gradient Tracking over General Topology**. <br>
+IEEE Transactions on Signal and Information Processing over Networks. **[Paper](https://ieeexplore.ieee.org/abstract/document/10660468)**
+
+[**<span style="color:#8B0000">CDC'23</span>**] **Zehan Zhu**, Yan Huang, Chengcheng Zhao, and Jinming Xu. **Asynchronous Byzantine-Robust Stochastic Aggregation with Variance Reduction for Distributed Learning**. <br>
+The 62nd IEEE Conference on Decision and Control. **[Paper](https://ieeexplore.ieee.org/abstract/document/10383346)**
+
+
 
 
 ## Patents

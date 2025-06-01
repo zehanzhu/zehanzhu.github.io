@@ -14,7 +14,7 @@ Hi there! I am pursuing the Ph.D. degree with the College of Control Science and
 
 Education Background
 ======
-**2020.09—Now:  Ph.D. Student** <br>
+**2020.09—Present:  Ph.D. Student** <br>
 **[Zhejiang University](https://www.zju.edu.cn/)**
 
 **2024.06—2025.01:  Visiting Ph.D. Student** <br>

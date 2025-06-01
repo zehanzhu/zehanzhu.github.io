@@ -14,14 +14,14 @@ Hi there! I am pursuing the Ph.D. degree with the College of Control Science and
 
 Education Background
 ======
-* Sep. 2020 - present, **Ph.D. Student** <br>
-**Zhejiang University**, Advisor: [Prof. Jinming Xu](https://person.zju.edu.cn/jimmyxu)
+**2020.09—Now:  Ph.D. Student** <br>
+**[Zhejiang University](https://www.zju.edu.cn/)**
 
-* Jun. 2024 - Jan. 2025, **Visiting Ph.D. Student** <br>
-**A*STAR Centre for Frontier AI Research (CFAR), Singapore**, Advisor: [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/)
+**2024.06—2025.01:  Visiting Ph.D. Student** <br>
+**[A*STAR Centre for Frontier AI Research (CFAR), Singapore](https://www.a-star.edu.sg/cfar)**
 
-* Sep. 2016 - Jun. 2020, **B.S. Student** <br>
-**China University of Petroleum (East China)**
+**2016.09—2020.06:  B.S. Student** <br>
+**[China University of Petroleum (East China)](https://upc.edu.cn/)**
 
 
 
@@ -31,9 +31,6 @@ Recent News
 * Jun. 2024: Our paper, [R-FAST: Robust Fully-Asynchronous Stochastic Gradient Tracking over General Topology](https://ieeexplore.ieee.org/abstract/document/10660468), has been accepted for publication in **IEEE Transactions on Signal and Information Processing over Networks (IEEE TSIPN)** as Regular Paper !
 * May. 2024: Our paper, [PerfTop: Towards Performance Prediction of Distributed Learning over General Topology](https://www.sciencedirect.com/science/article/abs/pii/S0743731524000868), has been accepted for publication in **Journal of Parallel and Distributed Computing (JPDC)** as Regular Paper ! (**<span style="color:blue; font-weight:bold">CCF-B</span>**)
 * Apr. 2024: Our paper, [PrivSGP-VR: Differentially Private Variance-Reduced Stochastic Gradient Push with Tight Utility Bounds](https://www.ijcai.org/proceedings/2024/635), has been accepted by the 33rd **International Joint Conference on Artificial Intelligence (IJCAI 2024)** ! (**<span style="color:#8B0000">CCF-A</span>, acceptance rate: 14%**)
-* Jul. 2023: Our paper, [Robust Fully-Asynchronous Methods for Distributed Training over General Architecture](https://arxiv.org/abs/2307.11617), is online!
-* Jul. 2023: Our paper, [Asynchronous Byzantine-Robust Stochastic Aggregation with Variance Reduction for Distributed Learning](https://ieeexplore.ieee.org/abstract/document/10383346), has been accepted by the 62nd **IEEE Conference on Decision and Control (IEEE CDC)** !
-* May. 2022: Our paper, [Tackling Data Heterogeneity: A New Unified Framework for Decentralized SGD with Sample-induced Topology](https://proceedings.mlr.press/v162/huang22i.html), has been accepted by the 39th **International Conference on Machine Learning (ICML 2022)** ! (**<span style="color:#8B0000">CCF-A</span>, acceptance rate: 22%**)
 
 
 

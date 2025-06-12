@@ -9,6 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+## Submitted Papers
+[**S1**] **Zehan Zhu** et al. **DP-CSGP: Differentially Private Stochastic Gradient Push with Compressed Communication**. <br>
+Submitted to IEEE Transactions on Information Forensics and Security. 
+
+[**S2**] **Zehan Zhu** et al. **CryptoSFL: An Efficient and Scalable Crypto-Aided Privacy-Preserving Framework for Split Federated Learning**. <br>
+Submitted to a CCF-B ranked conference.
+
+[**S3**] Yipeng Shen, **Zehan Zhu** et al. **Bandwidth-Aware Network Topology Optimization for Efficient Parameter Synchronization in Decentralized Learning**. <br>
+Submitted to a CCF-A ranked conference.
+
+
+
 
 ## Published/Accepted Papers
 [**<span style="color:#8B0000">IJCAI'25</span>**] **Zehan Zhu**, Yan Huang, Xin Wang, Shouling Ji, and Jinming Xu. **Dyn-D<sup>2</sup>P: Dynamic Differentially Private Decentralized Learning with Provable Utility Guarantee**. <br>

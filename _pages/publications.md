@@ -13,9 +13,6 @@ redirect_from:
 [**<span style="color:blue; font-weight:bold">S1</span>**] **Zehan Zhu** et al. **DP-CSGP: Differentially Private Stochastic Gradient Push with Compressed Communication**. <br>
 Submitted to IEEE Transactions on Information Forensics and Security. 
 
-[**<span style="color:blue; font-weight:bold">S2</span>**] **Zehan Zhu** et al. **CryptoSFL: An Efficient and Scalable Crypto-Aided Privacy-Preserving Framework for Split Federated Learning**. <br>
-Submitted to a CCF-B ranked conference.
-
 [**<span style="color:blue; font-weight:bold">S3</span>**] Yipeng Shen, **Zehan Zhu** et al. **Bandwidth-Aware Network Topology Optimization for Efficient Parameter Synchronization in Decentralized Learning**. <br>
 Submitted to a CCF-A ranked conference.
 

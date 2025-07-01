@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! I am pursuing the Ph.D. degree with the College of Control Science and Engineering, **Zhejiang University**, Hangzhou, China, supervised by [Prof. Jinming Xu](https://jinmingxu.github.io/). Previously, I received the B.Eng. degree in automation from the **China University of Petroleum (East China)**, Qingdao, China, in 2020. I was a visiting Ph.D. student with the **A*STAR Centre for Frontier AI Research (CFAR), Singapore**, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include distributed machine learning, large-scale optimization, security and privacy. **After graduation this year, I will join Huawei as a researcher working on Large Language Model training, with Distributed and Parallel Computing Lab, Central Software Institute, Huawei 2012 Labs.**
+Hi there! I am pursuing the Ph.D. degree with the College of Control Science and Engineering, **Zhejiang University**, Hangzhou, China, supervised by [Prof. Jinming Xu](https://jinmingxu.github.io/). Previously, I received the B.Eng. degree in automation from the **China University of Petroleum (East China)**, Qingdao, China, in 2020. I was a visiting Ph.D. student with the **A*STAR Centre for Frontier AI Research (CFAR), Singapore**, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include distributed machine learning, large-scale optimization, security and privacy. 
 
 
 

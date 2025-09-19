@@ -21,7 +21,7 @@ Submitted to a CCF-A ranked conference.
 
 ## Published/Accepted Papers
 [**<span style="color:#8B0000">IJCAI'25</span>**] **Zehan Zhu**, Yan Huang, Xin Wang, Shouling Ji, and Jinming Xu. **Dyn-D<sup>2</sup>P: Dynamic Differentially Private Decentralized Learning with Provable Utility Guarantee**. <br>
-The 34th International Joint Conference on Artificial Intelligence. **(CCF-A, [Paper](https://www.arxiv.org/abs/2505.06651))**
+The 34th International Joint Conference on Artificial Intelligence. **(CCF-A, [Paper](https://www.ijcai.org/proceedings/2025/809))**
 
 [**<span style="color:#8B0000">IJCAI'24</span>**] **Zehan Zhu**, Yan Huang, Xin Wang, and Jinming Xu. **PrivSGP-VR: Differentially Private Variance-Reduced Stochastic Gradient Push with Tight Utility Bounds**. <br>
 The 33rd International Joint Conference on Artificial Intelligence. **(CCF-A, [Paper](https://www.ijcai.org/proceedings/2024/635))**

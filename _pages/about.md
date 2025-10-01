@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-Hi there! I am pursuing the Ph.D. degree with the College of Control Science and Engineering, **Zhejiang University**, Hangzhou, China, supervised by [Prof. Jinming Xu](https://jinmingxu.github.io/). Previously, I received the B.Eng. degree in automation from the **China University of Petroleum (East China)**, Qingdao, China, in 2020. I was a visiting Ph.D. student with the **A*STAR Centre for Frontier AI Research (CFAR), Singapore**, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include distributed machine learning, large-scale optimization, security and privacy.
+Hi there! I obtained my Ph.D. degree with the College of Control Science and Engineering, **Zhejiang University**, Hangzhou, China, supervised by [Prof. Jinming Xu](https://jinmingxu.github.io/). Previously, I received my B.Eng. degree in automation from the **China University of Petroleum (East China)**, Qingdao, China, in 2020. I was a visiting Ph.D. student with the **A*STAR Centre for Frontier AI Research (CFAR), Singapore**, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include distributed machine learning, large-scale optimization, security and privacy.
 
 
 
 Education Background
 ======
-**2020.09—Present:  Ph.D. Student** <br>
+**2020.09—2025.09:  Ph.D. Student** <br>
 **[Zhejiang University](https://www.zju.edu.cn/)**
 
 **2024.06—2025.01:  Visiting Ph.D. Student** <br>

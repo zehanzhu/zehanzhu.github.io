@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! I am a senior researcher at **Huawei 2012 Labs**, focusing on **acceleration techniques for efficient large language model (LLM) inference**. Prior to joining Huawei, I obtained my **Ph.D. degree** from **Zhejiang University**, supervised by [Prof. Jinming Xu](https://jinmingxu.github.io/). Previously, I received my **B.S. degree** from **China University of Petroleum (East China)**. I was a visiting Ph.D. student with the **A*STAR Centre for Frontier AI Research (CFAR), Singapore**, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include distributed machine learning, large language model (LLM), large-scale optimization, security and privacy.
+Hi there! I am a senior researcher at **Huawei 2012 Labs**, focusing on **acceleration techniques for large language model (LLM) inference**. Prior to joining Huawei, I obtained my **Ph.D. degree** from **Zhejiang University**, supervised by [Prof. Jinming Xu](https://jinmingxu.github.io/). Previously, I received my **B.S. degree** from **China University of Petroleum (East China)**. I was a visiting Ph.D. student with the **A*STAR Centre for Frontier AI Research (CFAR), Singapore**, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include distributed machine learning, large language models (LLM), large-scale optimization, security and privacy.
 
 
 
@@ -28,6 +28,8 @@ Education Background
 
 Recent News
 ======
+* Oct. 2025: I have joined **Huawei 2012 Labs** as a researcher, working on **acceleration technologies for large language model (LLM) inference** ! 
+* Sep. 2025: I have successfully completed my **Ph.D. defense** and received my **doctoral degree** ! 
 * Apr. 2025: Our paper, [Dyn-D<sup>2</sup>P: Dynamic Differentially Private Decentralized Learning with Provable Utility Guarantee](https://www.ijcai.org/proceedings/2025/809), has been accepted by the 34th **International Joint Conference on Artificial Intelligence (IJCAI 2025)** ! (**<span style="color:#8B0000">CCF-A</span>, acceptance rate: 19.3%**)
 * Jun. 2024: Our paper, [R-FAST: Robust Fully-Asynchronous Stochastic Gradient Tracking over General Topology](https://ieeexplore.ieee.org/abstract/document/10660468), has been accepted for publication in **IEEE Transactions on Signal and Information Processing over Networks (IEEE TSIPN)** as Regular Paper !
 * May. 2024: Our paper, [PerfTop: Towards Performance Prediction of Distributed Learning over General Topology](https://www.sciencedirect.com/science/article/abs/pii/S0743731524000868), has been accepted for publication in **Journal of Parallel and Distributed Computing (JPDC)** as Regular Paper ! (**<span style="color:blue; font-weight:bold">CCF-B</span>**)

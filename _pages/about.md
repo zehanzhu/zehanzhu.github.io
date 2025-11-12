@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! I am a senior researcher at **Huawei 2012 Labs**, focusing on **acceleration techniques for large language model (LLM) inference**. Prior to joining Huawei, I obtained my **Ph.D. degree** from **Zhejiang University**, supervised by [Prof. Jinming Xu](https://jinmingxu.github.io/). Previously, I received my **B.S. degree** from **China University of Petroleum (East China)**. I was a visiting Ph.D. student with the **A*STAR Centre for Frontier AI Research (CFAR), Singapore**, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include distributed machine learning, large language models (LLM), large-scale optimization, security and privacy.
+Hi there! I am a senior researcher at **Huawei 2012 Labs**, focusing on **acceleration technologies for large language model (LLM) inference**. Prior to joining Huawei, I obtained my **Ph.D. degree** from **Zhejiang University**, supervised by [Prof. Jinming Xu](https://jinmingxu.github.io/). Previously, I received my **B.S. degree** from **China University of Petroleum (East China)**. I was a visiting Ph.D. student with the **A*STAR Centre for Frontier AI Research (CFAR), Singapore**, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include distributed machine learning, large language models (LLM), large-scale optimization, security and privacy.
 
 
 

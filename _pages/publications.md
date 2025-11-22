@@ -14,6 +14,8 @@ redirect_from:
 
 [**<span style="color:blue; font-weight:bold">S2</span>**] Yipeng Shen, **Zehan Zhu** et al. **Bandwidth-Aware Network Topology Optimization for Efficient Parameter Synchronization in Decentralized Learning**. <br>
 
+[**<span style="color:blue; font-weight:bold">S2</span>**] Wen Wen, Guangquan Xu, **Zehan Zhu** et al. **Dynamic Participation Undermines Byzantine Robustness in Distributed Federated Learning: Vulnerability Analysis and a Cross-Round Verification Framework**. <br>
+
 
 
 

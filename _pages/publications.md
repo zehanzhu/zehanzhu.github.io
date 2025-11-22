@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ## Working Papers
-[**<span style="color:blue; font-weight:bold">S1</span>**] **Zehan Zhu** et al. **DP-CSGP: Differentially Private Stochastic Gradient Push with Compressed Communication**. <br>
+[**<span style="color:blue; font-weight:bold">W1</span>**] **Zehan Zhu** et al. **DP-CSGP: Differentially Private Stochastic Gradient Push with Compressed Communication**. <br>
 
-[**<span style="color:blue; font-weight:bold">S2</span>**] Yipeng Shen, **Zehan Zhu** et al. **Bandwidth-Aware Network Topology Optimization for Efficient Parameter Synchronization in Decentralized Learning**. <br>
+[**<span style="color:blue; font-weight:bold">W2</span>**] Yipeng Shen, **Zehan Zhu** et al. **Bandwidth-Aware Network Topology Optimization for Efficient Parameter Synchronization in Decentralized Learning**. <br>
 
-[**<span style="color:blue; font-weight:bold">S2</span>**] Wen Wen, Guangquan Xu, **Zehan Zhu** et al. **Dynamic Participation Undermines Byzantine Robustness in Distributed Federated Learning: Vulnerability Analysis and a Cross-Round Verification Framework**. <br>
+[**<span style="color:blue; font-weight:bold">W3</span>**] Wen Wen, Guangquan Xu, **Zehan Zhu** et al. **Dynamic Participation Undermines Byzantine Robustness in Distributed Federated Learning: Vulnerability Analysis and a Cross-Round Verification Framework**. <br>
 
 
 

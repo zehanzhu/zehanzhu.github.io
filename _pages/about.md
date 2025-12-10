@@ -28,6 +28,7 @@ Education Background
 
 Recent News
 ======
+* Dec. 2025: Our paper, [Bandwidth-Aware Network Topology Optimization for Decentralized Learning](https://www.arxiv.org/abs/2512.07536), is online !
 * Oct. 2025: I have joined **Huawei 2012 Labs** as a researcher, working on **acceleration technologies for Large Language Models (LLMs) Inference** ! 
 * Sep. 2025: I have successfully completed my **Ph.D. defense** and received my **doctoral degree** ! 
 * Apr. 2025: Our paper, [Dyn-D<sup>2</sup>P: Dynamic Differentially Private Decentralized Learning with Provable Utility Guarantee](https://www.ijcai.org/proceedings/2025/809), has been accepted by the 34th **International Joint Conference on Artificial Intelligence (IJCAI 2025)** ! (**<span style="color:#8B0000">CCF-A</span>, acceptance rate: 19.3%**)

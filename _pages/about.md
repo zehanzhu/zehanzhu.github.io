@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! I am a senior researcher at **Central Software Institute, 2012 Labs, Huawei Technologies Co., Ltd.**, focusing on **acceleration technologies for Large Language Models (LLMs) Inference**. Prior to joining Huawei, I obtained my **Ph.D. degree** from **Zhejiang University**, supervised by [Prof. Jinming Xu](https://jinmingxu.github.io/). Previously, I received my **B.S. degree** from **China University of Petroleum (East China)**. I was a visiting Ph.D. student with the **A*STAR Centre for Frontier AI Research (CFAR), Singapore**, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include Distributed Machine Learning, LLMs Inference, Security and Privacy.
+Hi there! I am a senior researcher at **Central Software Institute, 2012 Labs, Huawei Technologies Co., Ltd.**, focusing on **acceleration technologies for Large Language Models (LLMs) Inference** and **Reinforcement Learning with Human Feedback (RLHF) for LLMs**. Prior to joining Huawei, I obtained my **Ph.D. degree** from **Zhejiang University**, supervised by [Prof. Jinming Xu](https://jinmingxu.github.io/). Previously, I received my **B.S. degree** from **China University of Petroleum (East China)**. I was a visiting Ph.D. student with the **A*STAR Centre for Frontier AI Research (CFAR), Singapore**, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include Distributed Machine Learning, LLMs, Security and Privacy.
 
 
 
@@ -28,6 +28,7 @@ Education Background
 
 Recent News
 ======
+* Dec. 2025: Our paper, [DP-CSGP: Differentially Private Stochastic Gradient Push with Compressed Communication](https://arxiv.org/abs/2512.13583), is online !
 * Dec. 2025: Our paper, [Bandwidth-Aware Network Topology Optimization for Decentralized Learning](https://www.arxiv.org/abs/2512.07536), is online !
 * Oct. 2025: I have joined **Huawei 2012 Labs** as a researcher, working on **acceleration technologies for Large Language Models (LLMs) Inference** ! 
 * Sep. 2025: I have successfully completed my **Ph.D. defense** and received my **doctoral degree** ! 

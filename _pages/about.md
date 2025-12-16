@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! I am a senior researcher at **Central Software Institute, 2012 Labs, Huawei Technologies Co., Ltd.**, focusing on **acceleration technologies for Large Language Models (LLMs) Inference** and **Reinforcement Learning with Human Feedback (RLHF) for LLMs**. Prior to joining Huawei, I obtained my **Ph.D. degree** from **Zhejiang University**, supervised by [Prof. Jinming Xu](https://jinmingxu.github.io/). Previously, I received my **B.S. degree** from **China University of Petroleum (East China)**. I was a visiting Ph.D. student with the **A*STAR Centre for Frontier AI Research (CFAR), Singapore**, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include Distributed Machine Learning, LLMs, Security and Privacy.
+Hi there! I am a researcher at **Central Software Institute, 2012 Labs, Huawei Technologies Co., Ltd.**, focusing on **acceleration technologies for Large Language Models (LLMs) Inference** and **Reinforcement Learning with Human Feedback (RLHF) for LLMs**. Prior to joining Huawei, I obtained my **Ph.D. degree** from **Zhejiang University**, supervised by [Prof. Jinming Xu](https://jinmingxu.github.io/). Previously, I received my **B.S. degree** from **China University of Petroleum (East China)**. I was a visiting Ph.D. student with the **A*STAR Centre for Frontier AI Research (CFAR), Singapore**, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include Distributed Machine Learning, LLMs, Security and Privacy.
 
 
 
@@ -38,6 +38,11 @@ Recent News
 * Apr. 2024: Our paper, [PrivSGP-VR: Differentially Private Variance-Reduced Stochastic Gradient Push with Tight Utility Bounds](https://www.ijcai.org/proceedings/2024/635), has been accepted by the 33rd **International Joint Conference on Artificial Intelligence (IJCAI 2024)** ! (**<span style="color:#8B0000">CCF-A</span>, acceptance rate: 14%**)
 
 
+
+Reviewer
+======
+* IEEE Transactions on Signal and Information Processing over Networks
+* IEEE Transactions on Cloud Computing
 
 
 

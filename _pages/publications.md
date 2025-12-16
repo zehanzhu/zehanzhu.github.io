@@ -10,15 +10,15 @@ redirect_from:
 {% include base_path %}
 
 ## Preprints
-[**<span style="color:blue; font-weight:bold">W1</span>**] **Zehan Zhu**, Heng Zhao, Yan Huang, Joey Tianyi Zhou, Shouling Ji, and Jinming Xu. **DP-CSGP: Differentially Private Stochastic Gradient Push with Compressed Communication**. **([Paper](https://arxiv.org/abs/2512.13583))**<br>
+[**<span style="color:blue; font-weight:bold">P1</span>**] **Zehan Zhu**, Heng Zhao, Yan Huang, Joey Tianyi Zhou, Shouling Ji, and Jinming Xu. **DP-CSGP: Differentially Private Stochastic Gradient Push with Compressed Communication**. **([Paper](https://arxiv.org/abs/2512.13583))**<br>
 
-[**<span style="color:blue; font-weight:bold">W2</span>**] Yipeng Shen, **Zehan Zhu**, Yan Huang, Changzhi Yan, Cheng Zhuo, and Jinming Xu. **Bandwidth-Aware Network Topology Optimization for Efficient Parameter Synchronization in Decentralized Learning**. **([Paper](https://www.arxiv.org/abs/2512.07536))**<br>
+[**<span style="color:blue; font-weight:bold">P2</span>**] Yipeng Shen, **Zehan Zhu**, Yan Huang, Changzhi Yan, Cheng Zhuo, and Jinming Xu. **Bandwidth-Aware Network Topology Optimization for Efficient Parameter Synchronization in Decentralized Learning**. **([Paper](https://www.arxiv.org/abs/2512.07536))**<br>
 
 
 
 
 ## Under Review
-[**<span style="color:blue; font-weight:bold">W3</span>**] Wen Wen, Guangquan Xu, **Zehan Zhu** et al. **Dynamic Participation Undermines Byzantine Robustness in Distributed Federated Learning: Vulnerability Analysis and a Cross-Round Verification Framework**. <br>
+[**<span style="color:blue; font-weight:bold">U1</span>**] Wen Wen, Guangquan Xu, **Zehan Zhu** et al. **Dynamic Participation Undermines Byzantine Robustness in Distributed Federated Learning: Vulnerability Analysis and a Cross-Round Verification Framework**. <br>
 
 
 

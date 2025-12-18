@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! I am a researcher at **Central Software Institute, 2012 Labs, Huawei Technologies Co., Ltd.**, focusing on **acceleration technologies for Large Language Models (LLMs) Inference** and **Reinforcement Learning with Human Feedback (RLHF) for LLMs**. Prior to joining Huawei, I obtained my **Ph.D. degree** from **Zhejiang University**, supervised by [Prof. Jinming Xu](https://jinmingxu.github.io/). Previously, I received my **B.S. degree** from **China University of Petroleum (East China)**. I was a visiting Ph.D. student with the **A*STAR Centre for Frontier AI Research (CFAR), Singapore**, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include Distributed Machine Learning, LLMs, Security and Privacy.
+Hi there! I am a researcher at **Distributed and Parallel Computing Lab, 2012 Labs, Huawei Technologies Co., Ltd.**, focusing on **acceleration technologies for Large Language Models (LLMs) Inference** and **Reinforcement Learning with Human Feedback (RLHF) for LLMs**. Prior to joining Huawei, I obtained my **Ph.D. degree** from **Zhejiang University**, supervised by [Prof. Jinming Xu](https://jinmingxu.github.io/). Previously, I received my **B.S. degree** from **China University of Petroleum (East China)**. I was a visiting Ph.D. student with the **A*STAR Centre for Frontier AI Research (CFAR), Singapore**, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/). My research interests include Distributed Machine Learning, LLMs, Security and Privacy.
 
 
 

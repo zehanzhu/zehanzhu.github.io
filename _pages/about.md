@@ -38,19 +38,3 @@ Recent News
 * Apr. 2024: Our paper, [PrivSGP-VR: Differentially Private Variance-Reduced Stochastic Gradient Push with Tight Utility Bounds](https://www.ijcai.org/proceedings/2024/635), has been accepted by the 33rd **International Joint Conference on Artificial Intelligence (IJCAI 2024)** ! 
 
 
-
-Reviewer
-======
-* IEEE Transactions on Signal and Information Processing over Networks
-* IEEE Transactions on Cloud Computing
-
-
-
-Awards
-======
-* Outstanding PhD Student, Zhejiang University, China, 2023, 2024
-* Outstanding Graduate of Shandong Province, China, 2020
-* National Scholarship for undergraduate student, China, 2019
-* First Prize in the National Undergraduate Mathematics Competition, China, 2017
-
-

@@ -17,13 +17,14 @@ redirect_from:
 
 
 
-## Under Review
-[**<span style="color:blue; font-weight:bold">U1</span>**] Wen Wen, Guangquan Xu, **Zehan Zhu** et al. **Dynamic Participation Undermines Byzantine Robustness in Distributed Federated Learning: Vulnerability Analysis and a Cross-Round Verification Framework**. <br>
 
 
 
 
 ## Published/Accepted Papers
+[**<span style="color:#8B0000">TDSC'26</span>**] Wen Wen, Guangquan Xu, **Zehan Zhu**, Wenyu Dong, Jinming Xu et al. **Rethinking Byzantine Robustness in Dynamic Federated Learning: Participation-Aware Threats and a Dynamic-Aware Defense**. <br>
+IEEE Transactions on Dependable and Secure Computing.
+
 [**<span style="color:#8B0000">IJCAI'25</span>**] **Zehan Zhu**, Yan Huang, Xin Wang, Shouling Ji, and Jinming Xu. **Dyn-D<sup>2</sup>P: Dynamic Differentially Private Decentralized Learning with Provable Utility Guarantee**. <br>
 The 34th International Joint Conference on Artificial Intelligence. **[Paper](https://www.ijcai.org/proceedings/2025/809)**
 

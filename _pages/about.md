@@ -28,6 +28,7 @@ Education Background
 
 Recent News
 ======
+* Aug. 2026: Our paper, [Rethinking Byzantine Robustness in Dynamic Federated Learning: Participation-Aware Threats and a Dynamic-Aware Defense], has been accepted for publication in **IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)** as Regular Paper. Congratulations to Wen Wen !
 * Dec. 2025: Our paper, [DP-CSGP: Differentially Private Stochastic Gradient Push with Compressed Communication](https://arxiv.org/abs/2512.13583), is online !
 * Dec. 2025: Our paper, [Bandwidth-Aware Network Topology Optimization for Decentralized Learning](https://www.arxiv.org/abs/2512.07536), is online !
 * Oct. 2025: I have joined **Huawei 2012 Labs** as a researcher, working on **RL for LLMs** ! 
